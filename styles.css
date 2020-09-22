@@ -32,7 +32,14 @@ body {
   display: flex;
   margin: 50px auto;
 }
+img{
+  /* border-radius: 70%;
+  width: 50px; */
 
+}
+.resume_profile { 
+  /* border-radius: 55%; */
+}
 .resume .resume_left {
   width: 300px;
   background: #0bb5f4;
